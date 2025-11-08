@@ -33,7 +33,7 @@ body{
 }
 
 .typing{ 
-    margin-top: 12%;
+    margin-top: 20%;
     display: inline-block;
     overflow: hidden;
     border-right: 3px solid #0055A4; 
@@ -498,3 +498,4 @@ button:hover{
 #accept-cookies:hover {
     background-color: #0234a0;
 }
+
