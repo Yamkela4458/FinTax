@@ -33,14 +33,14 @@ body{
 }
 
 .typing{ 
-    margin-top: 10%;
+    margin-top: 12%;
     display: inline-block;
     overflow: hidden;
     border-right: 3px solid #0055A4; 
     white-space: nowrap;
     animation: typing 2s steps(22, end), blink 0.75s step-end infinite;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 28px;
     color: #0073a4;
     margin-left: 30%;
 }
@@ -65,7 +65,7 @@ body{
     border: 1px solid #00f0ff;
     padding: 20px;
     width: 90%;
-    height: 150px;
+    height: 100px;
     border-radius: 10px;
     text-align: center;
     transition: transform 0.3s, background-color 0.3s;
@@ -89,11 +89,11 @@ body{
 }
 
 .card1{
-    margin-top: 40px;
+    margin-top: 20px;
     background-size: cover;
     border: 1px solid #00f0ff;
     padding: 20px;
-    width: 250px;
+    width: 200px;
     border-radius: 10px;
     text-align: center;
     transition: transform 0.3s, background-color 0.3s;
@@ -104,11 +104,11 @@ body{
 }
 
 .card2{
-    margin-top: 60px;
+    margin-top: 30px;
     background-size: cover;
     border: 1px solid #00f0ff;
     padding: 20px;
-    width: 250px;
+    width: 200px;
     border-radius: 10px;
     text-align: center;
     transition: transform 0.3s, background-color 0.3s;
@@ -119,11 +119,11 @@ body{
 }
 
 .card3{
-    margin-top: 80px;
+    margin-top: 40px;
     background-size: cover;
     border: 1px solid #00f0ff;
     padding: 20px;
-    width: 250px;
+    width: 200px;
     border-radius: 10px;
     text-align: center;
     transition: transform 0.3s, background-color 0.3s;
@@ -143,10 +143,10 @@ body{
     padding: 60px 20px;
 }
 .banks h2{
-    font-size: 3.2rem;
+    font-size: 2.5rem;
     font-weight: 500;
     margin-bottom: 20px;
-    color: rgb(16, 9, 0);
+    color: rgb(97, 1, 1);
 }
 .banks-marquee{
     overflow: hidden;
@@ -157,7 +157,7 @@ body{
     gap: 90px;
     list-style: none;
     align-items: center;
-    animation: scroll 6s linear infinite;
+    animation: scroll 9s linear infinite;
 }
 .banks-list.right-to-left{
     animation-direction: reverse;
@@ -168,8 +168,8 @@ body{
     align-items: center;
 }
 .banks-list img{
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 70px;
     border-radius: 30%;
     margin-bottom: 10px;
     filter: drop-shadow(0 0 10px #a6cee9);
@@ -402,8 +402,8 @@ button:hover{
 .site-footer {
     background: linear-gradient(135deg, #7b7878, #1a2b4e);
     color: #fff;
-    padding: 50px 20px 20px 20px;
-    font-size: 18px;
+    padding: 20px 10px 10px 10px;
+    font-size: 16px;
 }
 
 .footer-container{
