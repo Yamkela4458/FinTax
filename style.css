@@ -14,7 +14,7 @@ body{
     top: 0;
     display: inline;
     text-align: right;
-    padding: 8px;
+    padding: 6px;
     border-bottom: 10%;
 
 }
@@ -498,6 +498,7 @@ button:hover{
 #accept-cookies:hover {
     background-color: #0234a0;
 }
+
 
 
 
