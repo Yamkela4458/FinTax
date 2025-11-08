@@ -65,7 +65,7 @@ body{
     border: 1px solid #00f0ff;
     padding: 20px;
     width: 90%;
-    height: 160px;
+    height: 200px;
     border-radius: 10px;
     text-align: center;
     transition: transform 0.3s, background-color 0.3s;
@@ -498,6 +498,7 @@ button:hover{
 #accept-cookies:hover {
     background-color: #0234a0;
 }
+
 
 
 
