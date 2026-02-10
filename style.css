@@ -237,10 +237,9 @@ section{
     margin-bottom: 10px;
 }
 
-#section p{
+p{
     line-height: 1.6;
     margin-bottom: 15px;
-    text-align: Justify;
 }
 
 .button-group{
@@ -483,7 +482,6 @@ button:hover{
 #cookie-banner p {
     margin: 0;
     font-size: 14px;
-    text-align: center;
 }
 
 #accept-cookies {
@@ -500,6 +498,7 @@ button:hover{
 #accept-cookies:hover {
     background-color: #0234a0;
 }
+
 
 
 
