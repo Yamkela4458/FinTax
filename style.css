@@ -483,6 +483,7 @@ button:hover{
 #cookie-banner p {
     margin: 0;
     font-size: 14px;
+    text-align: center;
 }
 
 #accept-cookies {
@@ -499,6 +500,7 @@ button:hover{
 #accept-cookies:hover {
     background-color: #0234a0;
 }
+
 
 
 
